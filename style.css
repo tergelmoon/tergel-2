@@ -1,0 +1,18 @@
+p{
+    color: blue;
+    font-size: 32px;
+}
+#game{
+    color: brown;
+    font-size: 32px;
+}
+.lang{
+    color: blueviolet;
+    font-size: 32px;
+}
+.mn{
+    color: blanchedalmond;
+    font-size: 32px;
+    font-weight: 200;
+    font-style: normal;
+}
